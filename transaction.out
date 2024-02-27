@@ -1,0 +1,2 @@
+hyp -> con,       occurrence(hyp),     occurrence(con),      support(rule),       confidence,      classical index,         entropic index,     classical simi,       entropic simi
+dendogramas.r.chic -> dendrograma.pchic, 383.0000000000000000, 357.0000000000000000, 100.0000000000000000, 93.2114882506527351, 44.8096098296595500, 0.0000000000000000, 50.0000000000000000, 0.0000000000000000
